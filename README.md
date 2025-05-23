@@ -1,4 +1,4 @@
-"# Educase-India-Assignment" 
+# Educase-India-Assignment
 
 A responsive React app for user account creation, login, and profile viewing.  
 Built with React, React Router, and Tailwind CSS for styling.
@@ -51,7 +51,7 @@ _Add a link or GIF here if available_
    npm run dev
    ```
 
-##Folder Structure
+## Folder Structure
 ```bash
 src/
  ├── assets/         # Images like user avatars
